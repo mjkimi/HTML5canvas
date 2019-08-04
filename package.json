@@ -1,0 +1,16 @@
+{
+  "name": "8day_HTML_Canvas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://mjkimi.github.io/HTML5canvas",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
